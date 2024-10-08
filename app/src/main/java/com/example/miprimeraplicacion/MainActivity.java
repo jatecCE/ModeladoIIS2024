@@ -85,4 +85,10 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
         }
     }
+    /**
+     * This function is for subtracting 2 numbers
+     */
+    public int Substract(int a, int b){
+        return a-b;
+    }
 }
