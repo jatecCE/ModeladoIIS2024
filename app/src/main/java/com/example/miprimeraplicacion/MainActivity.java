@@ -85,4 +85,10 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
         }
     }
+    
+
+    public int sumar(int a,int b){
+        return a+b;
+
+    };
 }
