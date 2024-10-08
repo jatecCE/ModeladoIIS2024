@@ -33,7 +33,7 @@
             android:id="@+id/buttonExit"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Adios1"
+            android:text="Hola123"
             android:layout_marginStart="8dp" /> <!-- Espacio entre los botones -->
     </LinearLayout>
 </LinearLayout>
