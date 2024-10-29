@@ -20,7 +20,7 @@ public class Test1 {
 
     @After
     public void tearDown() {
-        // Aquí podrías limpiar recursos si es necesario
+        // Aquí podría limpiar recursos si es necesario
         persona = null; // No es estrictamente necesario, pero se puede hacer
     }
 
