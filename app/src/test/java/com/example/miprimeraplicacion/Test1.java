@@ -28,7 +28,7 @@ public class Test1 {
     public void testToJson() throws JSONException {
         JSONObject json = persona.toJson();
 
-        assertEquals("Jason1", json.getString("nombre"));
+        assertEquals("Jason", json.getString("nombre"));
         assertEquals("Leiton", json.getString("apellido"));
         assertEquals("116110036", json.getString("id"));
         assertEquals("88888888",json.getString("telefono"));
